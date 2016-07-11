@@ -5,7 +5,7 @@ This is a prototype construction tool called PN2OWL that transforms Petri nets m
 Eclipse tool, Java 2 language, JDK 1.7 platform.
 
 #Package
-java.awt, javax.swing packages and OWL API packages.
+java.awt, javax.swing package and OWL API package.
 
 #Document and file introduction
 1. The file PN2OWL. 
