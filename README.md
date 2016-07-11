@@ -10,13 +10,13 @@ java.awt, javax.swing package and OWL API package.
 #Document and file introduction
 1. The file PN2OWL. 
 The file PN2OWL is a java project, which includes all source codes of the tool.
-2. main-interface.png
+2. main-interface.png.
 The figure shows the main interface of PN2OWL when it is running.
-3. owlapi-distribution-3.4.3-bin.jar
+3. owlapi-distribution-3.4.3-bin.jar.
 This is a OWL API package, which helps to construct OWL ontologies from Petri nets.
-4. pnml-dataset.txt
+4. pnml-dataset.txt.
 This is a PNML document dataset.
-5. Petri net-dataset.png
+5. Petri net-dataset.png.
 This is a figure of Petri net model dataset.
 
 #Tool user manual
