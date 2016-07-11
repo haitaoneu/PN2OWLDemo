@@ -20,10 +20,10 @@ This is a PNML document dataset.
 This is a figure of Petri net model dataset.
 
 #Tool user manual
-1. Open eclipse java development environment(if not, please download from http://www.eclipse.org/downloads/)
+1. Open eclipse java development environment (if not, please download from http://www.eclipse.org/downloads/)
 2. Import the project PN2OWL(also called PN2OWL file) into eclipse.
 3. Add the package owlapi-distribution-3.4.3-bin.jar to the project.
-4. Run the project, then show the main interface. The interface includes three areas: (i)left area that shows the created Petri net model; (ii)upper right area that shows the parsed PNML document; (iii) lower right area that shows the generated OWL ontology.
+4. Run the project, then show the main interface. The interface includes three areas: (i) left area that shows the created Petri net model; (ii) upper right area that shows the parsed PNML document; (iii) lower right area that shows the generated OWL ontology.
 5. Create Petri nets model in the left area. Use place, transition and arc tool shown in navigation bar to establish the basic components. Right click the component,then set its label and cut, copy and delete itself.
 6. When clicking the button “Export PNML” , the created Petri net models can be transformed into the corresponding PNML document and the PNML result is shown on the upper right area. 
   When clicking the button “Export OWL”, the the PNML result can be transformed into the corresponding OWL ontology and the OWL ontology result is shown on the lower right area.
