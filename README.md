@@ -1,4 +1,4 @@
-# PN2OWLDemo
+#PN2OWLDemo
 This is a prototype construction tool called PN2OWL that transforms Petri nets models into OWL ontologies automatically.The function of PN2OWL tool is comprised of two parts: (a) transforming a Petri net model into a PNML model and (b) transforming a PNML model into OWL ontology.
 
 #Runtime environment
@@ -8,16 +8,16 @@ Eclipse tool, Java 2 language, JDK 1.7 platform.
 java.awt, javax.swing packages and OWL API packages.
 
 #Document and file introduction
-1. The file PN2OWL
-  The file PN2OWL is a java project, which includes all source codes of the tool.
+1. The file PN2OWL. 
+The file PN2OWL is a java project, which includes all source codes of the tool.
 2. main-interface.png
-   The figure shows the main interface of PN2OWL when it is running.
+The figure shows the main interface of PN2OWL when it is running.
 3. owlapi-distribution-3.4.3-bin.jar
-   This is a OWL API package, which helps to construct OWL ontologies from Petri nets.
+This is a OWL API package, which helps to construct OWL ontologies from Petri nets.
 4. pnml-dataset.txt
-   This is a PNML document dataset.
+This is a PNML document dataset.
 5. Petri net-dataset.png
-   This is a figure of Petri net model dataset.
+This is a figure of Petri net model dataset.
 
 #Tool user manual
 1. Open eclipse java development environment(if not, please download from http://www.eclipse.org/downloads/)
