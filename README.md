@@ -8,16 +8,16 @@ Eclipse tool, Java 2 language, JDK 1.7 platform.
 java.awt, javax.swing and OWL API package.
 
 #Documents and files introduction
-###1. The file PN2OWL. 
+###1. The file PN2OWL
 The file PN2OWL is a java project which includes all source codes of the tool. The package explorer is shown in [`package explorer.jpg` ](https://github.com/haitaoneu/PN2OWLDemo/blob/master/package%20explorer.jpg).
 
-###2. main-interface.png.
+###2. main-interface.png
 The figure shows the [main interface](https://github.com/haitaoneu/PN2OWLDemo/blob/master/main-interface.png) of PN2OWL when it is running.
-###3. owlapi-distribution-3.4.3-bin.jar.
+###3. owlapi-distribution-3.4.3-bin.jar
 This is a OWL API package which helps to construct OWL ontologies from Petri nets.
-###4. pnml-dataset.txt.
+###4. pnml-dataset.txt
 This is a [PNML](https://github.com/haitaoneu/PN2OWLDemo/blob/master/pnml-dataset.txt) document dataset.
-###5. Petri net-dataset.png.
+###5. Petri net-dataset.jpg
 This is a figure of [Petri net](https://github.com/haitaoneu/PN2OWLDemo/blob/master/Petri%20net-dataset.jpg) model dataset.
 
 #Tool user manual
