@@ -18,7 +18,7 @@ This is a OWL API package which helps to construct OWL ontologies from Petri net
 ###4. pnml-dataset.txt.
 This is a [PNML](https://github.com/haitaoneu/PN2OWLDemo/blob/master/pnml-dataset.txt) document dataset.
 ###5. Petri net-dataset.png.
-This is a figure of [Petri net](https://github.com/haitaoneu/PN2OWLDemo/blob/master/pnml-dataset.txt) model dataset.
+This is a figure of [Petri net](https://github.com/haitaoneu/PN2OWLDemo/blob/master/Petri%20net-dataset.jpg) model dataset.
 
 #Tool user manual
 1. Open eclipse java development environment (if not, please download from http://www.eclipse.org/downloads/)
