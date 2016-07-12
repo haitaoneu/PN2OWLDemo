@@ -16,9 +16,9 @@ The figure shows the main interface of PN2OWL when it is running.
 ###3. owlapi-distribution-3.4.3-bin.jar.
 This is a OWL API package which helps to construct OWL ontologies from Petri nets.
 ###4. pnml-dataset.txt.
-This is a PNML document dataset.
+This is a [PNML](https://github.com/haitaoneu/PN2OWLDemo/blob/master/pnml-dataset.txt) document dataset.
 ###5. Petri net-dataset.png.
-This is a figure of Petri net model dataset.
+This is a figure of [Petri net](https://github.com/haitaoneu/PN2OWLDemo/blob/master/pnml-dataset.txt) model dataset.
 
 #Tool user manual
 1. Open eclipse java development environment (if not, please download from http://www.eclipse.org/downloads/)
