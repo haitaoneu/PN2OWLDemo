@@ -9,11 +9,11 @@ java.awt, javax.swing package and OWL API package.
 
 #Document and file introduction
 ###1. The file PN2OWL. 
-The file PN2OWL is a java project, which includes all source codes of the tool.
+The file PN2OWL is a java project which includes all source codes of the tool.
 ###2. main-interface.png.
 The figure shows the main interface of PN2OWL when it is running.
 ###3. owlapi-distribution-3.4.3-bin.jar.
-This is a OWL API package, which helps to construct OWL ontologies from Petri nets.
+This is a OWL API package which helps to construct OWL ontologies from Petri nets.
 ###4. pnml-dataset.txt.
 This is a PNML document dataset.
 ###5. Petri net-dataset.png.
@@ -21,7 +21,7 @@ This is a figure of Petri net model dataset.
 
 #Tool user manual
 1. Open eclipse java development environment (if not, please download from http://www.eclipse.org/downloads/)
-2. Import the project PN2OWL(also called PN2OWL file) into eclipse.
+2. Import the project 'PN2OWL'(also called PN2OWL file) into eclipse.
 3. Add the package owlapi-distribution-3.4.3-bin.jar to the project.
 4. Run the project, then show the main interface. The interface includes three areas: (i) left area that shows the created Petri net model; (ii) upper right area that shows the parsed PNML document; (iii) lower right area that shows the generated OWL ontology.
 5. Create Petri nets model in the left area. Use place, transition and arc tool shown in navigation bar to establish the basic components. Right click the component,then set its label and cut, copy and delete itself.
