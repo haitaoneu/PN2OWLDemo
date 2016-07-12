@@ -9,7 +9,7 @@ java.awt, javax.swing package and OWL API package.
 
 #Documents and files introduction
 ###1. The file PN2OWL. 
-The file PN2OWL is a java project which includes all source codes of the tool. The package explorer is as follows:
+The file PN2OWL is a java project which includes all source codes of the tool. The package explorer is shown in [`package explorer.jpg` ](https://github.com/haitaoneu/PN2OWLDemo/package explorer.jpg).
 
 ###2. main-interface.png.
 The figure shows the main interface of PN2OWL when it is running.
