@@ -7,9 +7,10 @@ Eclipse tool, Java 2 language, JDK 1.7 platform.
 #Package
 java.awt, javax.swing package and OWL API package.
 
-#Document and file introduction
+#Documents and files introduction
 ###1. The file PN2OWL. 
-The file PN2OWL is a java project which includes all source codes of the tool.
+The file PN2OWL is a java project which includes all source codes of the tool. The package explorer is as follows:
+
 ###2. main-interface.png.
 The figure shows the main interface of PN2OWL when it is running.
 ###3. owlapi-distribution-3.4.3-bin.jar.
