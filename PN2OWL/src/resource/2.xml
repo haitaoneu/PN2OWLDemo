@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pnml xmlns="http://www.pnml.org/version-2009/grammar/pnml">
+    <net type="http://www.pnml.org/version-2009/grammar/ptnet">
+        <page id="p1">
+            <place provider="petrinet.provider.place" id="1">
+                <name name="1"/>
+                <graphics>
+                    <position x="1" y="1"/>
+                </graphics>
+                <initialMarking>
+                    <token id="viptool.petrinet.datastructure.Token@1000" provider="petrinet.provider.token">
+                        <value>0</value>
+                    </token>
+                </initialMarking>
+            </place>
+            <transition provider="petrinet.provider.transition" id="1">
+                <name name="1"/>
+                <graphics>
+                    <position x="1" y="1"/>
+                    <dimension x="32" y="32"/>
+                    <fill color="rgb(255, 255, 255)"/>
+                    <line color="rgb(0, 0, 0)" shape="line" style="solid" width="1"/>
+                </graphics>
+            </transition>
+            <transition provider="petrinet.provider.transition" id="">
+                <name name="1"/>
+                <graphics>
+                    <position x="1" y="1"/>
+                    <dimension x="32" y="32"/>
+                    <fill color="rgb(255, 255, 255)"/>
+                    <line color="rgb(0, 0, 0)" shape="line" style="solid" width="1"/>
+                </graphics>
+            </transition>
+            <arc provider="petrinet.provider.weightededge" id="1" source="1" target="1">
+                <inscription>
+                    <text>1</text>
+                </inscription>
+            </arc>
+            <arc provider="petrinet.provider.weightededge" id="1" source="1" target="1">
+                <inscription>
+                    <text>1</text>
+                </inscription>
+            </arc>
+        </page>
+    </net>
+</pnml>
