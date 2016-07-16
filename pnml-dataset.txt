@@ -1,5 +1,4 @@
 <net id="n1" type="P/Tnet">
-   <name><text>producer-consumer</text></name>
 	<place id = "p1">
 		<graphics><position x="20" y="20"/></graphics>
 		<name><text>P1</text></name>
